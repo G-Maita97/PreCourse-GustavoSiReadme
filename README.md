@@ -1,2 +1,2 @@
 # PreCourse-GustavoSiReadme
-Aqui tengo que cambiarlo
+Este es el degundo proyecto para crear repositorio en github y llevarlo a la pc
